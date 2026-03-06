@@ -12,4 +12,4 @@ Repositori ini berisi latihan praktikum (LAT) PTM 1 untuk mata kuliah **Pemrogra
 Buka file-file `.php` di web server (misalnya XAMPP) dan akses melalui browser.
 
 ## Kontak
-- **Email**: wahyuekacandra@gmail.com
+- **Email**: wahyuekacandra
